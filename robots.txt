@@ -1,0 +1,3 @@
+User-agent: *       # Should stop all bots.
+Crawl-Delay: 10     # Slows down bots.
+Disallow: /         # Blocks indexing.
